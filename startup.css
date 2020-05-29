@@ -1,0 +1,38 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Montserrat', sans-serif;
+	background: url(gold.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+hr{
+	border-color: #831616;
+	max-width: 65px;
+	border-width:  3px;
+} 
+h1{
+	font-size: 3rem;
+	color: white;
+}
+.btn{
+	font-weight: 500;
+	border-radius: 300px;
+	
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn-primary{
+	background-color:red;
+	border-color: red;
+}
+.btn-primary:hover{
+	background-color:#831616;
+	border-color:#831616;
+}
+.buffer{
+	height:10rem;
+}
